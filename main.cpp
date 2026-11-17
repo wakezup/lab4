@@ -77,8 +77,7 @@ int main() {
 
       case 7: {
         const Time other_time = TimeInput("Введите время для сравнения");
-        std::cout << "[ИНФО] "
-                  << "[ИНФО] Результат ==: "
+        std::cout << "[ИНФО] Результат ==: "
                   << (current_time == other_time ? "true" : "false") << '\n'
                   << "[ИНФО] Результат !=: "
                   << (current_time != other_time ? "true" : "false") << '\n';
