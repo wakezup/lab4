@@ -91,22 +91,4 @@
 В главной функции в меню добавлены пункты, демонстрирующие работу каждой из перечисленных операций: обнуление часов и минут оператором `-`, обнуление минут оператором `--`, приведение времени к `short int` и к `bool`, а также сравнение двух объектов `Time` операторами `==` и `!=`.
 
 ### Тестирование
-#### 1
-  <img width="407" height="146" alt="Screenshot From 2026-11-17 16-09-50" src="https://github.com/user-attachments/assets/a53dce16-5ec5-4104-a75d-c72de4d1cf69" />
-#### 2
-  <img width="322" height="76" alt="Screenshot From 2026-11-17 16-10-13" src="https://github.com/user-attachments/assets/d126d030-c3f7-4eb8-903e-2ab926f518c6" />
-#### 3
-  <img width="365" height="58" alt="image" src="https://github.com/user-attachments/assets/57a2e3b7-a61c-486a-85c4-662f188f6257" />
-#### 4
-  <img width="365" height="58" alt="Screenshot From 2026-11-17 16-10-54" src="https://github.com/user-attachments/assets/c1508739-2202-471e-a5a1-ec77579c5158" />
-#### 5
-  <img width="256" height="53" alt="Screenshot From 2026-11-17 16-11-31" src="https://github.com/user-attachments/assets/11d55424-2b21-4ffe-a4a9-8f8efb6d863a" />
-#### 6
-  <img width="288" height="57" alt="Screenshot From 2026-11-17 16-12-00" src="https://github.com/user-attachments/assets/66455e78-2631-4347-ac46-5bf69df8ee8f" />
-#### 7
-  <img width="285" height="127" alt="Screenshot From 2026-11-17 16-12-24" src="https://github.com/user-attachments/assets/2bb90e30-8b59-4d6d-8b7a-463cf8c28201" />
-#### 8
-  <img width="309" height="107" alt="Screenshot From 2026-11-17 16-12-41" src="https://github.com/user-attachments/assets/6afd13ae-5d73-485b-a632-3d5db9837647" />
-#### 9
-  <img width="286" height="50" alt="Screenshot From 2026-11-17 16-13-11" src="https://github.com/user-attachments/assets/400054ad-0aa9-403d-9df0-9bd3a36746af" />
-
+<table> <tr> <td align="center" valign="top" width="33%"> <b>1. Ввод времени (конструктор с параметрами)</b><br><br> <img src="https://github.com/user-attachments/assets/a53dce16-5ec5-4104-a75d-c72de4d1cf69" alt="Screenshot From 2026-11-17 16-09-50" width="100%"> </td> <td align="center" valign="top" width="33%"> <b>2. Вычитание минут из времени (оператор <code>-</code>)</b><br><br> <img src="https://github.com/user-attachments/assets/d126d030-c3f7-4eb8-903e-2ab926f518c6" alt="Screenshot From 2026-11-17 16-10-13" width="100%"> </td> <td align="center" valign="top" width="33%"> <b>3. Обнуление часов и минут (унарный <code>-</code>)</b><br><br> <img src="https://github.com/user-attachments/assets/57a2e3b7-a61c-486a-85c4-662f188f6257" alt="image" width="100%"> </td> </tr> <tr> <td align="center" valign="top" width="33%"> <b>4. Обнуление минут (унарный <code>--</code>)</b><br><br> <img src="https://github.com/user-attachments/assets/c1508739-2202-471e-a5a1-ec77579c5158" alt="Screenshot From 2026-11-17 16-10-54" width="100%"> </td> <td align="center" valign="top" width="33%"> <b>5. Приведение времени к <code>short int</code> (часы)</b><br><br> <img src="https://github.com/user-attachments/assets/11d55424-2b21-4ffe-a4a9-8f8efb6d863a" alt="Screenshot From 2026-11-17 16-11-31" width="100%"> </td> <td align="center" valign="top" width="33%"> <b>6. Приведение времени к <code>bool</code></b><br><br> <img src="https://github.com/user-attachments/assets/66455e78-2631-4347-ac46-5bf69df8ee8f" alt="Screenshot From 2026-11-17 16-12-00" width="100%"> </td> </tr> <tr> <td align="center" valign="top" width="33%"> <b>7. Сравнение времени (<code>==</code> и <code>!=</code>)</b><br><br> <img src="https://github.com/user-attachments/assets/2bb90e30-8b59-4d6d-8b7a-463cf8c28201" alt="Screenshot From 2026-11-17 16-12-24" width="100%"> </td> <td align="center" valign="top" width="33%"> <b>8. Создание копии времени (конструктор копирования)</b><br><br> <img src="https://github.com/user-attachments/assets/6afd13ae-5d73-485b-a632-3d5db9837647" alt="Screenshot From 2026-11-17 16-12-41" width="100%"> </td> <td align="center" valign="top" width="33%"> <b>9. Создание времени (конструктор по умолчанию)</b><br><br> <img src="https://github.com/user-attachments/assets/400054ad-0aa9-403d-9df0-9bd3a36746af" alt="Screenshot From 2026-11-17 16-13-11" width="100%"> </td> </tr> </table>
